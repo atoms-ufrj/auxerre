@@ -1,9 +1,9 @@
 Auxerre
 ==============================
 [//]: # (Badges)
-[![Travis Build Status](https://travis-ci.com/REPLACE_WITH_OWNER_ACCOUNT/Auxerre.svg?branch=master)](https://travis-ci.com/REPLACE_WITH_OWNER_ACCOUNT/Auxerre)
-[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/REPLACE_WITH_APPVEYOR_LINK/branch/master?svg=true)](https://ci.appveyor.com/project/REPLACE_WITH_OWNER_ACCOUNT/Auxerre/branch/master)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/Auxerre/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/Auxerre/branch/master)
+[![Travis Build Status](https://travis-ci.com/atoms-ufrj/auxerre.svg?branch=master)](https://travis-ci.com/atoms-ufrj/auxerre)
+[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/atoms-ufrj/branch/master?svg=true)](https://ci.appveyor.com/project/atoms-ufrj/auxerre/branch/master)
+[![codecov](https://codecov.io/gh/atoms-ufrj/auxerre/branch/master/graph/badge.svg)](https://codecov.io/gh/atoms-ufrj/auxerre/branch/master)
 
 Transport Properties from Molecular Dynamics Using Reciprocal-Space Correlation Analysis
 
