@@ -2,10 +2,12 @@ Auxerre
 ==============================
 [//]: # (Badges)
 [![Travis Build Status](https://travis-ci.com/atoms-ufrj/auxerre.svg?branch=master)](https://travis-ci.com/atoms-ufrj/auxerre)
-[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/atoms-ufrj/branch/master?svg=true)](https://ci.appveyor.com/project/atoms-ufrj/auxerre/branch/master)
+[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/craabreu/branch/master?svg=true)](https://ci.appveyor.com/project/craabreu/auxerre/branch/master)
 [![codecov](https://codecov.io/gh/atoms-ufrj/auxerre/branch/master/graph/badge.svg)](https://codecov.io/gh/atoms-ufrj/auxerre/branch/master)
 
 Transport Properties from Molecular Dynamics Using Reciprocal-Space Correlation Analysis
+
+__Note__: Auxerre is the birthplace of Jean-Baptiste Joseph Fourier
 
 ### Copyright
 
