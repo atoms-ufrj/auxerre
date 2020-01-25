@@ -15,6 +15,12 @@ __Note__: Auxerre is the birthplace of Jean-Baptiste Joseph Fourier
 Copyright (c) 2020, Charlles Abreu
 
 
+### Documentation
+
+<!-- https://auxerre.readthedocs.io/en/stable -->
+
+https://auxerre.readthedocs.io/en/latest
+
 #### Acknowledgements
 
 Project based on the
